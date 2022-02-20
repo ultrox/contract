@@ -16,5 +16,6 @@ body {
   margin-inline: auto;
   font-size: 120%;
   color: hsl(0,0%,20%);
-  font-family: Helvetica
+  font-family: Helvetica;
+  padding: 0.5rem;
 }
