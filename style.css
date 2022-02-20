@@ -1,0 +1,20 @@
+* + * {
+  margin-block-start: 1em;
+}
+
+ul,li {
+  margin-inline-start: 1rem;
+}
+
+
+ul {
+  margin-block: 1em;
+}
+
+body {
+  max-inline-size: 65ch;
+  margin-inline: auto;
+  font-size: 120%;
+  color: hsl(0,0%,20%);
+  font-family: Helvetica
+}
